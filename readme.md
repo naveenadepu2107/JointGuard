@@ -124,7 +124,7 @@ joint_guard/
 
 ## Patient Dashboard
 
-![Patient Dashboard](screenshots/src-joint gaurd.png)
+![Patient Dashboard](screenshots/patient_dashboard.png)
 
 ---
 
